@@ -1,13 +1,15 @@
 :host {
-     margin-top: 25px;
+     margin: 60px 0;
      display: flex;
      justify-content: center;
      align-items: center;
      flex-direction: column;
 
      h2 {
+          font-size: 26px;
           text-align: center;
-          margin: 0 0 25px 0;
+          margin: 0 0 50px 0;
+          color: var(--secondary);
      }
 
      details {
@@ -28,11 +30,11 @@
                display: flex;
                justify-content: space-between;
                align-items: center;
-               background: var(--primary);
+               background: var(--primary10);
 
                p {
                     font-size: 14px;
-                    color: var(--black);
+                    color: var(--secondary);
                     padding: 0 ;
                     margin: 0;
                     display: flex;
