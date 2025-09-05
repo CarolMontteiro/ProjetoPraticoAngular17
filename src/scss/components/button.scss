@@ -20,7 +20,7 @@
           &:hover {
                background: var(--primary);
                color: var(--white);
-               border: 1px solid var(--secondary);
+               border: 1px solid var(--primary15);
           }
      } 
      
@@ -28,9 +28,9 @@
           color: var(--black);
           background: var(--primary20);
           &:hover {
-               background: var(--primary10);
+               background: var(--secondary);
                color: var(--white);
-               border: 1px solid var(--secondary);
+               border: 1px solid var(--primary15);
           }
      }
 

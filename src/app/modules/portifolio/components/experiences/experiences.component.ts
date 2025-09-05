@@ -17,5 +17,21 @@ export class ExperiencesComponent {
       },
        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dui turpis, pharetra maximus eros fringilla, facilisis volutpat augue. Nulla bibendum vel mi a elementum',
     },
+
+    {
+      summary: {
+        strong:'Lorem Ipsum',
+        p: 'Lorem | Ipsum',
+      },
+       text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dui turpis, pharetra maximus eros fringilla, facilisis volutpat augue. Nulla bibendum vel mi a elementum',
+    },
+
+    {
+      summary: {
+        strong:'Lorem Ipsum',
+        p: 'Lorem | Ipsum',
+      },
+       text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dui turpis, pharetra maximus eros fringilla, facilisis volutpat augue. Nulla bibendum vel mi a elementum',
+    },
   ]);
 }
