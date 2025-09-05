@@ -89,30 +89,17 @@
           }
      }
 
-     @media (max-widht: 750px) {
-          aside {
-             nav {
-               ul {
-                    flex-direction: column;
-                    gap: 15px;
-
-                    li {
-                         &, a {
-                              width: 100%;
-                         }
-                    }
-               }
-             }
-          }
-
+     @media (max-width: 750px) {
+          aside nav ul, 
           section {
                flex-direction: column;
-               gap: 15px;
+               gap: 15px;               
+          }
 
-               figure {
-                    width: 100%;
-
-               }
+          aside nav ul li, 
+          aside nav ul li a, 
+          section figure {
+                width: 100%;
           }
      }
 }
