@@ -24,5 +24,65 @@ export class ProjectsComponent {
         },
       ],
     },
+
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto front end',
+      title: 'Front end',
+      width: '100px',
+      heigth: '51px',
+      description: '<p>lorem ipsum tdf htentt caliyns khotherun en sley</p>',
+      links: [
+        {
+          name: 'Conheça',
+          href: '',
+        },
+      ],
+    },
+
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto front end',
+      title: 'Front end',
+      width: '100px',
+      heigth: '51px',
+      description: '<p>lorem ipsum tdf htentt caliyns khotherun en sley</p>',
+      links: [
+        {
+          name: 'Conheça',
+          href: '',
+        },
+      ],
+    },
+
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto front end',
+      title: 'Front end',
+      width: '100px',
+      heigth: '51px',
+      description: '<p>lorem ipsum tdf htentt caliyns khotherun en sley</p>',
+      links: [
+        {
+          name: 'Conheça',
+          href: '',
+        },
+      ],
+    },
+
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto front end',
+      title: 'Front end',
+      width: '100px',
+      heigth: '51px',
+      description: '<p>lorem ipsum tdf htentt caliyns khotherun en sley</p>',
+      links: [
+        {
+          name: 'Conheça',
+          href: '',
+        },
+      ],
+    },
   ]);
 }
