@@ -1,27 +1,98 @@
-# ProjetoPraticoAngular17
+# 🌸 Portfólio Angular 17
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Projeto prático desenvolvido durante meus estudos em Angular 17 com foco em componentização, organização de arquitetura frontend e construção de interfaces modernas utilizando SCSS.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologias utilizadas
 
-## Code scaffolding
+* Angular 17
+* TypeScript
+* SCSS
+* HTML5
+* CSS3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🎨 Estilização
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+O projeto utiliza SCSS organizado em camadas para facilitar manutenção e escalabilidade.
 
-## Running unit tests
+Separação de estilos:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Base
+* Layout
+* Componentes
+* Tema
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ✨ Funcionalidades
 
-## Further help
+* Apresentação pessoal
+* Sessão de conhecimentos
+* Sessão de experiências
+* Sessão de projetos
+* Layout responsivo
+* Componentização com Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🎯 Objetivos de estudo
+
+Este projeto foi desenvolvido com o objetivo de praticar:
+
+* Componentização no Angular
+* Organização de arquitetura frontend
+* Estruturação de SCSS
+* Responsividade
+* Reutilização de componentes
+* Boas práticas no desenvolvimento frontend
+
+---
+
+## 🔮 Melhorias futuras
+
+* Melhorar UI/UX
+* Adicionar animações
+* Implementar dark mode
+* Melhorar responsividade mobile
+* Criar componentes compartilhados
+* Adicionar integração com APIs
+* Melhorar acessibilidade
+* Refatorar design system
+
+---
+
+## ▶️ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone <url-do-repositorio>
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+ng serve
+```
+
+Acesse no navegador:
+
+```bash
+http://localhost:4200
+```
+
+---
+
+## 📌 Status do projeto
+
+🚧 Projeto em evolução e utilizado para fins de estudo e aperfeiçoamento em Angular e frontend moderno.
+
